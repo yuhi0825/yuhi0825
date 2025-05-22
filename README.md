@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi!👋Welcome to my GitHub😎
 
-<!--
-**yuhi0825/yuhi0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## introduction
+I'm studying computer science and engineering at a National Institute of Technology (KOSEN) in Japan,
+currently conducting research in the field of machine learning.
 
-Here are some ideas to get you started:
+## skill
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Study - Anomalous Sound Detection
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+### experience
+[![My Skills](https://skillicons.dev/icons?i=c,ruby,java,python,unity)](https://skillicons.dev)
+
+### learning
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
